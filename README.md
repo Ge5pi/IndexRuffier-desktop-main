@@ -142,5 +142,5 @@ class FinalWin(QWidget):
 This project is **open-source** and free for **non-commercial** use.
 
 ## Author
-Developed by **Sofiya Dassayeva**.
+Developed by **Butyrin Daniil**.
 
